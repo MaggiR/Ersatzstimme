@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Ersatzstimme",
+    pageTitle: "🗳️ Ersatzstimme",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "de-DE",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "ersatzstimme.wiki",
     ignorePatterns: ["Privat", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        code: "Source Code Pro",
       },
       colors: {
         lightMode: {

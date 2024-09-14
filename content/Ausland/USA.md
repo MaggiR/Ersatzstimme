@@ -1,0 +1,9 @@
+Seit 2000 implementieren zunehmend mehr Regionen und Städte die Präferenzwahl in ihre Wahlverfahren. Aktuell sind es rund 50 ([FairVote](https://fairvote.org/our-reforms/ranked-choice-voting-information/#where-is-ranked-choice-voting-used)), darunter San Francisco (seit 2002), Minneapolis (seit 2006), Maine (seit 2016), NYC (seit 2021) und Alaska (seit 2022).
+Exit Surveys fanden:
+* dass eine überwältigende Mehrheit (86%) der Wähler die Präferenzwahl verstanden hat, vgl. nur 28% der Deutschen können Erst- und Zweitstimme korrekt zuordnen ([pollytix](https://pollytix.de/pollytix-umfrage-offenbart-wissensluecken-zum-wahlsystem/))
+* dass die Wähler sie einfach fanden (95% in NYC, [Beispiel-Wahlzettel](https://www.nycvotes.org/media/qqbjfttc/sample-ballot-en.pdf))
+* dass die Mehrheit der Wähler (75%) Gebrauch von den Nebenstimmen macht ([New America](https://www.newamerica.org/political-reform/reports/what-we-know-about-ranked-choice-voting/the-voting-experience/))
+* und dass sie die Präferenzwahl in künftigen Wahlen gutheißen würden (56 bis 82%) ([FairVote](https://fairvote.org/report/exit-surveys-report-2024/)).
+Beobachtungen zufolge beeinflusst die Präferenzwahl die Wahlbeteiligung, wenn, dann positiv ([FairVote](https://fairvote.org/ranked-choice-voting-and-voter-turnout/)).
+
+Die Fehlerrate abgegebener Präferenzwahl-Stimmzettel ist zwar gestiegen, aber insgesamt weiterhin gering ([Institute for Mathematics and Democracy, 2024](https://mathematics-democracy-institute.org/deficiencies-in-recent-research-on-ranked-choice-voting-ballot-error-rates/)), bspw. 2005 nur 0,4% in San Francisco ([New America Foundation & FairVote, 2008](https://archive.fairvote.org/media/irv/irvracememo.pdf)). Die meisten fehlerhaften Stimmzettel können allerdings dennoch berücksichtigt werden, weil sie deutlich den Wählerwillen erkennen lassen.

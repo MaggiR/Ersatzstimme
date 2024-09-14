@@ -1,0 +1,3 @@
+### Alexander Dilger (2021)
+**"Einfache Vermeidung von Stimmverlusten durch Prozent-Hürden" im Diskussionspapier des Instituts für Organisationsökonomik**. [Zum Paper](https://www.wiwi.uni-muenster.de/io/de/forschen/downloads/DP-IO_07_2021)
+Beleuchtet die Präferenzwahl als effektive Maßnahme gegen Stimmverluste durch die 5%-Hürde. Schlägt als vereinfachende Alternative vor, dass nicht die Wähler ihre nachfolgende Alternativpartei bestimmen, sondern die Partei selbst. In diesem Modell legt die Partei im Voraus fest, an welche andere Partei ihre Stimmen gehen sollen, falls sie selbst die Hürde nicht überwindet. So setzt der Wähler weiterhin nur ein einzelnes Kreuz.
