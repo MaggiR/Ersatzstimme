@@ -76,6 +76,12 @@ a {
 
   &:hover {
     color: var(--tertiary) !important;
+
+    &.external .external-icon {
+      > path {
+        fill: var(--tertiary) !important;
+      }
+    }
   }
 
   &.internal {
@@ -99,10 +105,11 @@ a {
 
   &.external .external-icon {
     height: 1ex;
-    margin: 0 0.15em;
+    margin: 0 0.15em 0 0.2em;
 
     > path {
-      fill: var(--dark);
+      fill: var(--secondary);
+      transition: fill 0.2s ease;
     }
   }
 }
