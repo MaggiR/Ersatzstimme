@@ -124,13 +124,13 @@
   gap: 5px;
   padding: 1rem 0;
   color: var(--color);
+  cursor: pointer;
 
   --icon-size: 18px;
 
   & .fold-callout-icon {
     transition: transform 0.15s ease;
     opacity: 0.8;
-    cursor: pointer;
     --callout-icon: var(--callout-icon-fold);
   }
 

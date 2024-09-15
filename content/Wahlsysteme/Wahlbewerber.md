@@ -1,0 +1,1 @@
+Bei einer Mehrheitswahl der Kandidat bzw. bei einer Verhältniswahl die Partei, der bzw. die sich zur Wahl aufstellt.
