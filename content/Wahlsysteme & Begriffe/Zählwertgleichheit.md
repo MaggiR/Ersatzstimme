@@ -1,0 +1,1 @@
+Bei der Ermittlung des Wahlergebnisses zählt die Stimme jedes Wählers gleich viel.

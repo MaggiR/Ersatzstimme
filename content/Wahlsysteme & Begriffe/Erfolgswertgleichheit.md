@@ -1,0 +1,1 @@
+Bei der Umrechnung des Wahlergebnisses in Parlamentssitze zählt die Stimme jedes Wählers gleich.

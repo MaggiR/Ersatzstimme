@@ -1,7 +1,8 @@
 ---
-title: Ersatzstimme
+title: Die Ersatzstimme
+description: "Alles über das Wahlsystem der Ersatzstimme: Stärken, Schwächen, Erfahrungen, Gutachten etc."
 ---
-###### Mark Rothermel - Version 3
+###### Mark Rothermel - Version 3.1
 Dieses Mini-Wiki bündelt alle wichtigen Informationen rund um das Wahlsystem der Ersatzstimme.
 ## Zusammenfassung
 Das aktuelle deutsche Wahlsystem leidet unter einigen Schwächen. Durch die 5%-Hürde gehen regelmäßig große Mengen Stimmen verloren (rund 4 Mio bei der BTW 2021 und 22,3% bei der LTW im Saarland 2022). Der Stimmenverlust ist nicht nur ein Einschnitt in die Wahlgleichheit, sondern schwächt auch die Repräsentativität des Wahlergebnisses und damit die Legitimität des Wahlsiegers. Außerdem ruft das System Wählerdilemmas hervor, die zum taktischen Wahlverhalten zwingen, besonders bei Mehrheitswahlen. Zusätzlich begünstigt das Wahlsystem extremistische Kandidaten und fördert Polarisierung. Kleine und neue Parteien oder Kandidaten werden durch das taktische Wahlverhalten künstlich benachteiligt.
@@ -21,13 +22,17 @@ Im August 1949 fand die erste Bundestagswahl statt. Seit nun über 75 Jahren ist
 Als Demokrat schätzt man das deutsche Wahlsystem. Ein *ehrlicher* Demokrat erkennt jedoch, dass selbst ein so bewährtes System Schattenseiten aufweist. Stimmenverluste durch die 5%-Hürde, die Schwächung kleiner Parteien, das taktische Wahlverhalten und die Förderung von Extremismus und Polarisierung sind einige davon. Ein *wirklich wahrer* Demokrat entwickelt Reformen, um diese Probleme zu lösen und die Demokratie zu stärken.
 
 Nach nun 75-jährigem Bestehen ist Zeit für eine tiefgehende Reform des deutschen Wahlsystems, um seine Schwächen zu lösen - weitreichender als jede Wahlreform der letzten Jahrzehnte. Als konstruktiven Beitrag zur Reformdebatte schlägt dieses Wiki die **Einführung des Systems der Ersatzstimme für das deutsche Wahlsystem** vor. Dabei bezeichnet das "deutsche Wahlsystem" die momentan geltenden Regeln für alle öffentlichen Wahlen in Deutschland, insb. die Bundestagswahl (BTW), jede Landtagswahl (LTW), Bürgermeisterwahlen, Landratswahlen, etc.
-## Die Krankheiten des deutschen Wahlsystems
+## Die Probleme des deutschen Wahlsystems
 > [!attention]- 1. Es verschwendet Stimmen
-> Die Nicht-Berücksichtigung von Wählerstimmen verletzt die Gleichheit der Wahl ([Dilger, 2021](https://www.wiwi.uni-muenster.de/io/de/forschen/downloads/DP-IO_07_2021)). Rund 4 Millionen Stimmen gingen bei der BTW 2021 durch die 5%-Hürde verloren, das waren 8,7% der Stimmen. Viel extremer war es bei der LTW im Saarland 2022, bei welcher 22,3% der Stimmen unberücksichtigt blieben. Im Mittel verlor bei den letzten Wahlen mehr als jeder zehnte Wähler seine Stimme. Tatsächlich ist die durchschnittliche Zahl unberücksichtigter Stimmen bei LTWen seit den 70er Jahren deutlich gewachsen (Grafik entnommen von [wahlreform.de](https://www.wahlreform.de/unberuecksichtigt.pdf)):
+> Die Nicht-Berücksichtigung von Wählerstimmen verletzt die Gleichheit der Wahl ([Dilger, 2021](https://www.wiwi.uni-muenster.de/io/de/forschen/downloads/DP-IO_07_2021)). Rund 4 Millionen Stimmen gingen bei der BTW 2021 durch die 5%-Hürde verloren, das waren 8,7% der Stimmen. Viel extremer war es bei der LTW im Saarland 2022, bei welcher 22,3% der Stimmen unberücksichtigt blieben.
+> 
+> Bei LTWen der letzten vier Jahre verlor im Mittel mehr als jeder zehnte Wähler seine Stimme, während Anfang der 70er noch nur rund 3% der Wähler waren. Der Steigende Trend unberücksichtigter Wählerstimmen bei LTWen ist tatsächlich deutlich an folgender Grafik erkennbar (entnommen von [wahlreform.de](https://www.wahlreform.de/unberuecksichtigt.pdf)):
 > ![[Pasted image 20240805000147.png]]
 > Der Trend erklärt sich vor allem anhand von zwei Phänomenen:
 > 1. **Die Parteien sind kleiner, aber mehr geworden**. Die Zeiten großer Volksparteien sind vorüber und die Wählerstimmen verteilen sich über eine größere Anzahl Parteien, auch Kleinstparteien..
 > 2. **Die Wählerbindung an Parteien ist geringer geworden**: Dadurch ist die Bereitschaft der Wähler, sich von etablierten Parteien abzuwenden, grundsätzlich größer.
+> 
+> Der Stimmverlust beeinträchtigt die [[Erfolgswertgleichheit]] ([von Prittwitz, 2003](https://www.bpb.de/shop/zeitschriften/apuz/27211/vollstaendig-personalisierte-verhaeltniswahl/)).
 
 > [!attention]- 2. Es begünstigt Extremisten
 > Für den Sieg eines Extremisten reicht bereits die größte Minderheit, ganz egal, wie sehr er sich zum Feind der übrigen Mehrheit gemacht hat. Direktwahlen bei LTWen oder der BTW sehen keine Stichwahl vor, wodurch ein Wahlsieger mit einem gering legitimierenden Stimmenanteil hervorgehen kann, wie bspw. Marek Erfurth von der AfD, der bei der Thüringer LTW 2024 mit nur 26,7% der Stimmen den Wahlkreis Erfurt IV gewann ([thueringen.de, 2024](https://wahlen.thueringen.de/datenbank/wahl1/wahl.asp?wahlart=LW&wJahr=2024&zeigeErg=LAND&auswertung=6&wknr=&gemnr=&terrKrs=&gemteil=000&buchstabe=&Langname=&wahlvorschlag=&sort=&druck=&XLS=&anzahlH=-2&Nicht_existierende=&x_vollbildDatenteil=&optik=&aktual=&ShowLand=&ShowWK=&ShowPart=&SortSpalte=4&Richtung=)), nur 1,3 Prozentpunkte vor der CDU-Kandidatin. Der AfD-Kandidat wäre selbst dann Sieger, wenn die Erfurter Bevölkerung im paarweisen Vergleich jeden anderen Kandidaten vorziehen würde.
@@ -38,9 +43,9 @@ Nach nun 75-jährigem Bestehen ist Zeit für eine tiefgehende Reform des deutsch
 
 > [!attention]- 3. Es repräsentiert den Wählerwillen ungenau
 > Wenn wir die Erst- und Zweitstimme als getrennte Wahlen betrachten, darf jeder Wähler bei jeder Wahl nur ein einziges Kreuz setzen. Dieses einzelne Kreuz transportiert nur sehr begrenzt viel Information. Insbesondere kann der Wähler mit dem einen Kreuz nicht ausdrücken, welcher Kandidat oder welche Partei ihm am zweitliebsten wäre. Die Folge ist, dass
-> - in der Mehrheit unbeliebte Kandidaten gewinnen können (s. bspw. Erfurt IV oben),
-> - Kleinstparteiwähler bei der Sitzverteilung von etablierten Parteien unberücksichtigt bleiben oder Kleinstparteiwähler taktisch wählen (s. u.) und
-> - Wähler von aussichtsschwachen Kandidaten bei den Siegchancen von aussichtsreichen Kandidaten nicht mitbestimmen können (s. OB-Kandidaturen in Darmstadt unten) oder taktisch wählen (s. u.).
+> - ...in der Mehrheit unbeliebte Kandidaten gewinnen können (s. bspw. Erfurt IV oben),
+> - ...Kleinstparteiwähler bei der Sitzverteilung von etablierten Parteien unberücksichtigt bleiben oder Kleinstparteiwähler taktisch wählen (s. u.) und
+> - ...Wähler von aussichtsschwachen Kandidaten bei den Siegchancen von aussichtsreichen Kandidaten nicht mitbestimmen können (s. OB-Kandidaturen in Darmstadt unten) oder taktisch wählen (s. u.).
 > 
 > Im aktuellen System kann es außerdem zur **Mehrheitsumkehr** kommen, also dass ein politisches Lager, das die Mehrheit der Stimmen erhalten hat, nicht die Mehrheit der Mandate erhält, weil ein kleinerer Koalitionspartner an der Hürde scheiterte ([Benken, 2022](https://youtu.be/qWGRzvMwxSE?si=FUAv4sZ5hB4emHES&t=586); [Graeb & Vetter, 2018](https://www.nomos-elibrary.de/10.5771/0340-1758-2018-3-552.pdf)). Das führte bei der Bundestagswahl 2013 zu einer bürgerlich-rechten Mehrheit nach Stimmen, aber einer linken Mehrheit nach Mandaten.
 > 
@@ -55,7 +60,7 @@ Nach nun 75-jährigem Bestehen ist Zeit für eine tiefgehende Reform des deutsch
 > Ein gutes Wahlsystem würde es dem Wähler gestatten, risikofrei seine Erstpräferenz zu wählen. 
 
 > [!attention]- 6. Es benachteiligt kleine Parteien und aussichtsschwache Kandidaten
-> Taktisches Wahlverhalten (s. o.) führt dazu, dass die Siegchancen von aussichtsschwachen Kandidaten und kleinen oder neuen Parteien sinken ([Dilger, 2021](https://www.wiwi.uni-muenster.de/io/de/forschen/downloads/DP-IO_07_2021)). Potenziell beliebte Newcomer haben es dadurch besonders schwer.
+> Taktisches Wahlverhalten (s. o.) führt dazu, dass die Siegchancen von aussichtsschwachen Kandidaten und kleinen oder neuen Parteien sinken ([Dilger, 2021](https://www.wiwi.uni-muenster.de/io/de/forschen/downloads/DP-IO_07_2021)). Potenziell beliebte Newcomer haben es dadurch besonders schwer, was als innovationshemmend betrachtet wird ([von Prittwitz, 2003](https://www.bpb.de/shop/zeitschriften/apuz/27211/vollstaendig-personalisierte-verhaeltniswahl/)).
 > 
 > Ein gutes Wahlsystem würde Kleinparteien und aussichtsschwachen Kandidaten nicht die ohnehin schon kleinen Gewinnchancen zusätzlich und künstlich schmälern.
 
@@ -87,7 +92,7 @@ Eine *Ersatzstimme* ist eine zusätzliche Stimme, mit der der Wähler eine zweit
 Die Stimme für die erste Präferenz wird auch als *Hauptstimme* bezeichnet. Mit "Ersatzstimme" ist je nach Kontext die Wählerstimme oder das Wahlsystem gemeint. Das System der Ersatzstimme ist der einfachste Spezialfall der [[Präferenzwahl]].
 ### Musterstimmzettel
 Die Bundestagswahl 2021 hätte mit Ersatzstimme auf dem Stimmzettel so aussehen können (hier "Wahlkreisstimme" statt "Erststimme" und "Listenstimme" statt "Zweitstimme", um mögliche Verwechslungen zu vermeiden).
-![[Musterstimmzettel Ersatzstimme.png]]
+![[Musterstimmzettel Ersatzstimme 1.png]]
 ### Aggregationsverfahren
 Es gibt mehrere Möglichkeiten, die abgegebenen Stimmen in die Verteilung der Mandate zu übersetzen. Diese Verfahren werden als *Aggregationsverfahren* (oder Auszählungsverfahren) bezeichnet. Von ihnen hängt das genaue Resultat ab.
 
@@ -153,24 +158,27 @@ Diese Variante ist wahrscheinlich nicht ohne Anpassung des Grundgesetzes möglic
 > [!check]- 11. Erhalt der 5%-Hürde
 > Mit der Ersatzstimme könnte ein System geschaffen werden, in welchem die 5%-Hürde auch ohne Grundmandatsklausel möglicherweise verfassungskonform ist. In jedem Fall kann die 5%-Hürde in ihrer vollen Höhe beibehalten werden, sodass die Sperrklausel am Konzentrationseffekt nicht einbüßen muss ([Graeb & Vetter, 2018](https://www.nomos-elibrary.de/10.5771/0340-1758-2018-3-552.pdf)).
 ### Schwächen
+Einige der Schwächen können mit [[Ergänzendes|ergänzenden Maßnahmen]] abgemildert werden.
 
 > [!failure]- 1. Erhöhte Komplexität
-> Eine zusätzliche Stimme könnte den Wähler weiter überfordern. Bei der Ersatzstimme ist sich die Literatur uneinig, ob die Komplexitätszunahme die Schwelle zur fehlenden Normenklarheit überschreitet ([Wiss. Dienst d. BT, 2022](https://www.bundestag.de/resource/blob/916908/b6b6d93b8c360555df03d65038f7c630/WD-3-117-22-pdf.pdf)). Eine Wahlrechtsreform sollte auch die Ursachen für das schlechte Verständnis von Erst- und Zweitstimme beheben.
+> Das System der Ersatzstimme ist offensichtlich komplizierter als das bisherige System.. Die zusätzliche Stimme könnte manche Wähler möglicherweise überfordern. Mit der Umbenennung von "Erststimme" in "Wahlkreisstimme" und "Zweitstimme" in "Listenstimme" wird zumindest die suggerierte, aber irreführende Rangfolge ("Erst-" vs. "Zweit-") vermieden, wodurch eine wichtige Fehlerquelle ([KAS, 2019](https://www.kas.de/de/kurzum/detail/-/content/denn-sie-wissen-nicht-was-sie-tun)) behoben wird.
+> 
+> Bei der Ersatzstimme ist sich die Literatur uneinig, ob die Komplexitätszunahme die Schwelle zur fehlenden "Normenklarheit" überschreitet ([Wiss. Dienst d. BT, 2022](https://www.bundestag.de/resource/blob/916908/b6b6d93b8c360555df03d65038f7c630/WD-3-117-22-pdf.pdf)).
 
 > [!failure]- 2. Ungewohntheit
-> Die Ersatzstimme ist ein noch in der Öffentlichkeit recht unbekanntes System. Dieser psychologische Nachteil lässt sich jedoch überwinden, da ein Gewöhnungseffekt einsetzen würde ([Jesse, 1985](https://academic.oup.com/ahr/article-abstract/91/3/693/48292?redirectedFrom=fulltext), [Graeb & Vetter, 2018](https://www.nomos-elibrary.de/10.5771/0340-1758-2018-3-552.pdf)). 
+> Die Ersatzstimme ist ein noch in der Öffentlichkeit recht unbekanntes System. Dieser psychologische Nachteil lässt sich jedoch überwinden, da ein Gewöhnungseffekt einsetzen würde ([Jesse, 1985](https://academic.oup.com/ahr/article-abstract/91/3/693/48292?redirectedFrom=fulltext), [Graeb & Vetter, 2018](https://www.nomos-elibrary.de/10.5771/0340-1758-2018-3-552.pdf)). Mit [[Ergänzendes|ergänzenden Maßnahmen]] kann die Umgewöhnung schneller vorangetrieben werden.
 
 > [!failure]- 3. Erhöhtes Risiko ungültiger Stimmen
 > Der Wahlzettel bietet dem Wähler mehr Freiheitsgrade und damit auch mehr Möglichkeiten, beim Ausfüllen Fehler zu begehen. Bisherige Praxiserfahrungen zeigen aber, dass die Fehlerrate selbst im deutlich komplizierteren Fall der Präferenzwahl weiterhin gering ist ([Institute for Mathematics and Democracy, 2024](https://mathematics-democracy-institute.org/deficiencies-in-recent-research-on-ranked-choice-voting-ballot-error-rates/)), so betrug der Anteil ungültiger Stimmzettel bei der Bürgermeisterwahl in San Francisco 2005 nur 0,4% ([New America Foundation & FairVote, 2008](https://archive.fairvote.org/media/irv/irvracememo.pdf)), unabhängig davon ob die Wähler das System vorher bereits kannten oder nicht. Zum Vergleich: Die Zahl ungültiger Stimmen bei der BTW 2021 betrug rund 1% ([Wikipedia](https://de.wikipedia.org/wiki/Bundestagswahl_2021?wprov=sfla1)).
 
-> [!failure]- 4. Anspruchsvollere Nachvollziehbarkeit
+> [!failure]- 4. Anspruchsvollere Nachvollziehbarkeit der Ergebnisse
 > Die Aggregation (Übersetzung von Stimmverteilung in Mandatsverteilung) ist bei der Ersatzstimme komplexer als im bisherigen System. Während bisher ein einfaches Balkendiagramm zur Visualisierung der Stimmverteilung genügte, benötigt man bei der Ersatzstimme eine andere Darstellungsform. Möglich ist ein gestapeltes Balkendiagramm aus Haupt- und übertragenen Ersatzstimmen (s. [Beispiel](https://en.wikipedia.org/wiki/Instant-runoff_voting#2009_Burlington_mayoral_election)). Für die Visualisierung der Übertragung der Ersatzstimmen während der Aggregation kommen ein [Sankey-Diagramm](https://www.rcvis.com/v/va-gop-gov#sankey) (s. auch [hier](https://www.electoral-reform.org.uk/voting-systems/types-of-voting-system/supplementary-vote/)) oder ein [iterativ animiertes Balkendiagramm](https://www.rcvis.com/v/va-gop-gov) in Frage.
 
 > [!failure]- 5. Potenziell mehr Parteien in Koalitionen
 > Das System der Ersatzstimme behebt die Benachteiligung von kleinen Parteien. Dadurch steigt der Hauptstimmenanteil für kleine Parteien ([Graeb & Vetter, 2018](https://www.nomos-elibrary.de/10.5771/0340-1758-2018-3-552.pdf)), was die Überwindungswahrscheinlichkeit der Sperrklausel für kleine Parteien erhöht. Infolgedessen könnte sich die Zahl der Parteien im Parlament und damit auch in Koalitionen (trotz gleichbleibender Sperrklausel) vergrößern.
 
 > [!failure]- 6. Erhöhter Auszählungsaufwand
-> Die Einführung der Ersatzstimme erhöht die Anzahl auszuwertender Stimmen um den Anteil der Wähler, der auch Gebrauch von der Ersatzstimme gemacht hat. Es wird geschätzt, dass im Fall der Zweitstimme nur 20% der Wähler Gebrauch von der Ersatzstimme machen werden, wodurch der erhöhte Auszählungsaufwand überschaubar wäre. Bei der Erststimme könnten es mehr sein. 
+> Die Einführung der Ersatzstimme erhöht die Anzahl auszuwertender Stimmen um den Anteil der Wähler, der auch Gebrauch von der Ersatzstimme gemacht hat. Es wird geschätzt, dass im Fall der Zweitstimme nur 20% der Wähler Gebrauch von der Ersatzstimme machen werden, wodurch der erhöhte Auszählungsaufwand überschaubar wäre. Bei der Erststimme könnten es mehr sein. Siehe [[Ergänzendes|Ergänzende Maßnahmen]] für eine mögliche Implementierung des Stimmenauszählungsverfahrens, welches die zusätzliche Auszähldauer gering hält.
 
 > [!failure]- 7. In der Theorie nicht perfekt
 > In der Sozialwahltheorie gibt es eine Reihe von [Kriterien](https://de.wikipedia.org/wiki/Sozialwahltheorie#Qualit%C3%A4tskriterien) zur Beurteilung von Wahlsystemen. Wünschenswerte Wahlsysteme erfüllen möglichst viele Kriterien. Die Ersatzstimme erfüllt mehrere Kriterien nicht, z.B. verletzt sie das [Condorcet-Kriterium](https://de.wikipedia.org/wiki/Condorcet-Methode#Condorcet-Kriterium). Allerdings können laut [Arrow-Theorem](https://de.wikipedia.org/wiki/Arrow-Theorem) ohnehin schon in der Theorie nicht alle Kriterien auf einmal erfüllt werden (s. auch [Wikipedia](https://de.wikipedia.org/wiki/Integrierte_Stichwahl#Eigenschaften:_Kriterien)) . In der Tat gibt es kein Wahlsystem, das "perfekt" ist ([Hellmann, 2016](https://www.nomos-elibrary.de/10.5771/0340-1758-2016-2-389/weg-vom-pfadabhaengigkeitsproblem-praeferenzwahl-in-mehrpersonenwahlkreisen-als-reformoption-des-bundeswahlrechts-jahrgang-47-2016-heft-2?page=1)). Der Anspruch einer Wahlrechtsreform muss jedoch nicht sein, perfekt zu sein, sondern das jetzige Wahlsystem in wesentlichen Punkten zu verbessern.
@@ -181,8 +189,18 @@ Diese Variante ist wahrscheinlich nicht ohne Anpassung des Grundgesetzes möglic
 - **Mehr Aufmerksamkeit für kleine Parteien**: Weil auch Kleinparteien eine ernsthafte Wahloption darstellen ([Graeb & Vetter, 2018](https://www.nomos-elibrary.de/10.5771/0340-1758-2018-3-552.pdf)), könnten sich im Vorfeld der Wahl die Wähler womöglich mehr mit ihnen auseinandersetzen. Außerdem wollen die großen Parteien die Ersatzstimmen der kleinen Parteien erhalten, wodurch ein Anreiz entsteht, dass die großen Parteien die Wünsche von Kleinpartei-Wählern adressieren ([Institut für Wahlreform](http://www.dualwahl.de/)).
 - Auf diese Weise können **große Parteien neue Wählerschichten erschließen** ([Benken, 2022](https://youtu.be/qWGRzvMwxSE?si=FUAv4sZ5hB4emHES&t=586)), indem sie nämlich Ersatzstimmen von Wählern erhalten, sie nur Kleinparteien wählen, aber ihre Ersatzstimme zur Absicherung nutzen. Dieser Effekt erhöht auch den **Zusammenhalt** in der Gesellschaft. Kleinpartei-Wähler bekommen das Gefühl, mit ihrer politischen Meinung am Ende doch noch ernst genommen zu werden. So kann die Ersatzstimme die **Identifikation** mit dem System der repräsentativen Demokratie erhöhen ([Institut für Wahlreform](http://www.dualwahl.de/)).
 - **Die Ersatzstimme zieht die negativen Eigenschaften der Hauptstimme auf sich**. Das betrifft insbesondere Wählerdilemmas, die zum taktischen Wählen zwingen. Die Hauptstimme kann gänzlich gemäß der Vorliebe des Wählers vergeben werden.
+- **Im Ersatzstimmensystem werden Koalitionswünsche sichtbar**: Durch die auftretenden Kombinationen aus Haupt- und Ersatzstimmen wird ersichtlich, welche Partei wie häufig mit welcher anderen Partei angegeben wurde, eine unvergleichbare Datengrundlage, die den Wählerwillen bzgl. der Koalitionsbildung widergibt.
 - Neueinsteiger im Bundestag waren bei den letzten Malen immer extreme Parteien (AfD und BSW). Eine Ersatzstimme könnte zu Newcomern aus der Mitte verhelfen.
-## Ersatzstimme und verwandte Wahlsysteme in anderen Ländern
+## Erfahrungen mit der Ersatzstimme
+### Ersatzstimmeninitiativen in Deutschland
+In Deutschland gab es bereits in zwei Landtagen ([[Schleswig-Holstein 2012 - 2016]] und [[Saarland 2015]]) den Versuch, die Ersatzstimme auf politischem Wege einzuführen. Beide Initiativen scheiterten. Im Zuge der [[Bundestagswahlrechtsreform 2022|Bundestagswahlrechtsreform von 2022]] wurde die Ersatzstimme kurzzeitig für die sehr spezielle Situation von Wahlkreissiegern mit fehlender Zweitstimmendeckung diskutiert, jedoch verworfen. [[Brandenburg 2024|Aktuell wird in Brandenburg]] die Einführung der [[Integrierte Stichwahl|Integrierten Stichwahl]] debattiert.
+
+2011 versuchte ein Bürger per öffentlicher Petition die Einbringung der Ersatzstimme in den Bundestag. "In der achtwöchigen Mitzeichnungsfrist hatten sich nicht einmal 400 Unterstützer gefunden. Der Bundestag lehnte den Vorstoß im April 2011 ab." ([SHZ](https://web.archive.org/web/20220601063826/https://www.shz.de/lokales/kiel/artikel/ersatzstimme-bei-landtagswahlen-spd-will-piraten-vorschlag-ueberdenken-41523481))"
+
+Mehr Demokratie e.V. setzt sich für diverse demokratiefördernde Reformen ein, darunter für die Ersatzstimme, s. bspw. ihren [Bericht](https://www.mehr-demokratie.de/fileadmin/pdf/2022/2022-11-14_Ersatzstimmentagung-Zusammenfassung-Benken-v3.pdf)  und [Aufzeichnung](https://www.youtube.com/watch?v=jNwZ3PIP6J0&list=PLRLt57BRPAiIj0Z_8gVQia_E2nxaP_Jhp) ihrer "InitiativTagung" zur Ersatzstimme oder ihre [Online-Petition](https://www.mehr-demokratie.de/mehr-bewegen/kampagnen/rettet-die-stimmen). Konkret unternahm Mehr Demokratie e.V. den Versuch, die Ersatzstimme in Berlin einzuführen. "Die Innenbehörde des Senats erklärte den Vorstoß \[...\] für rechtlich nicht zulässig; die Ersatzstimme verstoße gegen den Grundsatz der „Unmittelbarkeit der Wahl“." ([SHZ](https://web.archive.org/web/20220601063826/https://www.shz.de/lokales/kiel/artikel/ersatzstimme-bei-landtagswahlen-spd-will-piraten-vorschlag-ueberdenken-41523481))
+
+Eine [[Abstimmung21|Probeabstimmung]] auf Abstimmung21 ergab eine Unterstützung von 72% für die Ersatzstimme, wobei viele der übrigen Stimmabgaben Enthaltungen waren.
+### Die Ersatzstimme und verwandte Wahlsysteme in anderen Ländern
 Als einzige Region der Welt, in der die Ersatzstimme in der hier beleuchteten Form genutzt wurde, war Großbritannien, was die Ersatzstimme jedoch 2022 wieder abschaffte. Gegenwärtig ist kein öffentliches Wahlsystem auf der Welt bekannt, das die Ersatzstimme nutzt. Allerdings existieren zahlreiche Regionen, die das deutlich komplexere System der [[Präferenzwahl]] anwenden, welches eine Verallgemeinerung der Ersatzstimme ist.
 
 Folgende Länder und Regionen haben die Ersatzstimme oder die Präferenzwahl implementiert (klicke auf den Ländernamen für eine detaillierte Zusammenfassung der dortigen Situation).
@@ -202,24 +220,29 @@ Folgende Länder und Regionen haben die Ersatzstimme oder die Präferenzwahl imp
 | Neuseeland                   | Lokale Parlamente & Bürgermeister | [[Integrierte Stichwahl]] & [[Übertragbare Einzelstimmgebung]] | mehrstufig  | 2004        |
 
 Für weitere Beispiele, siehe [Wikipedia](https://en.wikipedia.org/wiki/History_and_use_of_instant-runoff_voting).
-## Ersatzstimmeninitiativen in Deutschland
-In Deutschland gab es bereits in zwei Landtagen ([[Schleswig-Holstein 2012 - 2016]] und [[Saarland 2015]]) den Versuch, die Ersatzstimme auf politischem Wege einzuführen. Beide Initiativen scheiterten. Im Zuge der [[Bundestagswahlrechtsreform 2022|Bundestagswahlrechtsreform von 2022]] wurde die Ersatzstimme kurzzeitig für die sehr spezielle Situation von Wahlkreissiegern mit fehlender Zweitstimmendeckung diskutiert, jedoch verworfen. [[Brandenburg 2024|Aktuell wird in Brandenburg]] die Einführung der [[Integrierte Stichwahl|Integrierten Stichwahl]] debattiert.
-
-2011 versuchte ein Bürger per öffentlicher Petition die Einbringung der Ersatzstimme in den Bundestag. "In der achtwöchigen Mitzeichnungsfrist hatten sich nicht einmal 400 Unterstützer gefunden. Der Bundestag lehnte den Vorstoß im April 2011 ab." ([SHZ](https://web.archive.org/web/20220601063826/https://www.shz.de/lokales/kiel/artikel/ersatzstimme-bei-landtagswahlen-spd-will-piraten-vorschlag-ueberdenken-41523481))"
-
-Mehr Demokratie e.V. setzt sich für diverse demokratiefördernde Reformen ein, darunter für die Ersatzstimme, s. bspw. ihren [Bericht](https://www.mehr-demokratie.de/fileadmin/pdf/2022/2022-11-14_Ersatzstimmentagung-Zusammenfassung-Benken-v3.pdf)  und [Aufzeichnung](https://www.youtube.com/watch?v=jNwZ3PIP6J0&list=PLRLt57BRPAiIj0Z_8gVQia_E2nxaP_Jhp) ihrer "InitiativTagung" zur Ersatzstimme oder ihre [Online-Petition](https://www.mehr-demokratie.de/mehr-bewegen/kampagnen/rettet-die-stimmen). Konkret unternahm Mehr Demokratie e.V. den Versuch, die Ersatzstimme in Berlin einzuführen. "Die Innenbehörde des Senats erklärte den Vorstoß \[...\] für rechtlich nicht zulässig; die Ersatzstimme verstoße gegen den Grundsatz der „Unmittelbarkeit der Wahl“." ([SHZ](https://web.archive.org/web/20220601063826/https://www.shz.de/lokales/kiel/artikel/ersatzstimme-bei-landtagswahlen-spd-will-piraten-vorschlag-ueberdenken-41523481))
-
-Eine [[Abstimmung21|Probeabstimmung]] auf Abstimmung21 ergab eine Unterstützung von 72% für die Ersatzstimme, wobei viele der übrigen Stimmabgaben Enthaltungen waren.
 ## Literatur
 ### Juristische Gutachten
 - [[WD SH 2015]]
 - [[BVerfG 2017]]
 - [[WD BT 2022]]
+- [[BVerfG 2024]]
 ### Wissenschaftliche Paper
 - [[Hellmann 2016]]
 - [[Graeb 2018]]
 - [[Dilger 2021]]
-## Gegenargumente & Mythen
+## Geläufige Gegenargumente & Mythen
+> [!question]- Die Ersatzstimme ist für die Wähler zu kompliziert
+> **Behauptung**: Wegen der zusätzlichen Stimme sind zu viele Wähler überfordert und verwirrt. Die Folge wäre viele ungültige Stimmzettel. Außerdem sind die Wähler es gewohnt, nur eine Stimme zu vergeben.
+> 
+> **Einordnung**: Andere Länder wie [[Irland]], [[Australien]] und [[Neuseeland]] sowie 50 Regionen in den [[USA]] wenden das wesentlich kompliziertere System der [[Präferenzwahl]] an. Die Erfahrungen dort zeigen, dass selbst die Präferenzwahl von den Bürgern gut verstanden wird. Fehlerraten liegen bei unter 1% (vgl., die BTW 2021 hatte rund 1% fehlerhafte Stimmzettel). Im Übrigen kann auch auf den neuen Stimmzetteln weiterhin nach den alten Regeln gewählt werden, ohne dass der Stimmzettel dadurch ungültig wird.
+
+> [!question]- Die Ersatzstimme verletzt das Prinzip "One Man, One Vote"
+> **Behauptung**: Jeder Wähler kann im System der Ersatzstimme ja zwei Stimmen abgeben. Mit der Ersatzstimme verdoppeln sich folglich die Erfolgschancen eines Wählers. 
+> 
+> **Einordnung**: Stimmt nicht. Die Ersatzstimme kompensiert lediglich den Misserfolg der Hauptstimme. "Im Ergebnis sind damit Zählwert und Erfolgschance der Ersatzstimmen und der dazugezählten \[... Hauptstimmen der Hauptstimme\] anderer Wähler formal gleich." ([Wiss. Dienst d. BT, 2022](https://www.bundestag.de/resource/blob/916908/b6b6d93b8c360555df03d65038f7c630/WD-3-117-22-pdf.pdf))
+> 
+> Im engeren Sinne handelt es sich bei Haupt- und Ersatzstimme nicht um Stimmen, sondern um *Stimmverfügungen*. Der Wähler kann also zwei Stimmverfügungen angeben, aber nur eine einzige Stimmverfügung kann am Ende wirken. Die wirkende Stimmverfügung repräsentiert dann die Stimme des Wählers.
+
 > [!question]- Die Ersatzstimme fördert taktisches Wählen
 > **Beispiel**: Es ist Bundestagswahl, die CDU liegt in den Umfragen vorn, die FDP nahe der 5%-Hürde. Ein CDU-Wähler hätte gerne die FDP als Koalitionspartner. Um ihr den Sprung über die Sperrklausel zu verhelfen, wählt der CDU-Wähler taktisch die FDP, denn er hat nichts zu verlieren: Entweder verhilft er der FDP wie gewünscht über die 5% oder seine Stimme geht an seine Lieblingspartei, die CDU.
 > 
@@ -241,9 +264,6 @@ Eine [[Abstimmung21|Probeabstimmung]] auf Abstimmung21 ergab eine Unterstützung
 > 
 > Die Ersatzstimme kompensiert lediglich den Wegfall der Hauptstimme. Sie ist eine Absicherung, die im Sinne des Wählers nur dann greifen soll, wenn die Hauptstimme verfiel.
 
-> [!question]- Die Ersatzstimme verdoppelt die Erfolgschancen eines Wählers
-> **Einordnung**: Tut sie nicht, da sie lediglich den Misserfolg der Hauptstimme kompensiert. "Im Ergebnis sind damit Zählwert und Erfolgschance der Ersatzstimmen und der dazugezählten \[... Hauptstimmen der Hauptstimme\] anderer Wähler formal gleich." ([Wiss. Dienst d. BT, 2022](https://www.bundestag.de/resource/blob/916908/b6b6d93b8c360555df03d65038f7c630/WD-3-117-22-pdf.pdf))
-
 > [!question]- Sieger kann nur der mit den meisten Hauptstimmen sein
 > **Einordnung**: Mit der Ersatzstimme verändert sich die Definition von "Mehrheit" insofern, dass der Mehrheitssieger nicht mehr derjenige ist, der lediglich die meisten Hauptstimmen auf sich vereinen konnte, sondern den meisten *Rückhalt* hat, also die größte Summe aus Haupt- und übertragenen Ersatzstimmen. Der Rückhalt wiegt schwerer als die bloßen Hauptstimmen, weil der Rückhalt den Wählerwillen besser repräsentiert. Deshalb ist ein Kandidat mit dem größten Rückhalt besser legitimiert als ein Kandidat mit den meisten Hauptstimmen.
 
@@ -251,9 +271,11 @@ Eine [[Abstimmung21|Probeabstimmung]] auf Abstimmung21 ergab eine Unterstützung
 > **Einordnung**: Das BVerfG stellte in seinem Urteil ([BVerfG Leitsatz, 2017](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/09/cs20170919_2bvc004614.html)) keine Verfassungswidrigkeit der Ersatzstimme fest, sondern lediglich, dass es verfassungsrechtlich "nicht geboten" ist, die Ersatzstimme einzuführen. Das bedeutet, dass der Gesetzgeber nicht **verpflichtet** ist, die Ersatzstimme einzuführen (es jedoch könnte).
 
 > [!question]- Die Ersatzstimme stellt die Ernsthaftigkeit der Hauptstimme in Frage
-> **Behauptung**: Der Wähler könnte seine Hauptstimme im Sinne eines Freischusses vergeben, ohne dass damit die notwendige Ernsthaftigkeit verbunden wäre, die eine Wahlentscheidung erfordert, denn es würde ja immer noch eine weitere Stimme berücksichtigt.
+> **Behauptung**: Der Wähler könnte seine Hauptstimme im Sinne eines Freischusses vergeben, ohne dass damit die notwendige Ernsthaftigkeit verbunden wäre, die eine Wahlentscheidung erfordert, denn es würde ja immer noch eine weitere Stimme berücksichtigt. Ersatzstimmen sind keine vollwertigen Stimmen. Ein Parlament sollte nur mittels Erstpräferenzen gewählt werden und nicht mit "zweitbesten Voten".
 > 
 > **Einordnung**: Die Behauptung ist unbegründet. Zunächst gilt, dass für jeden Wähler am Ende höchstens eine Stimme wirksam geworden ist, entweder die Hauptstimme oder die Ersatzstimme oder keine von beiden. Die Ersatzstimme kann nur dann wirksam werden, wenn die Hauptstimme unwirksam ist. Es ist nicht ersichtlich, weshalb der Wähler seine Hauptstimme wahllos oder ohne ernsthafte Erwägungen vergeben sollte, ganz besonders, weil die Hauptstimme die Stimme ist, die zuerst ausgewertet wird.
+> 
+> Wenn die o.g. Behauptung aus subjektiver Sicht zuträfe, wäre das geltende Wahlrecht nicht besser, weil sich durch die taktische Stimmabgabe aus dem Ergebnis kaum die tatsächlichen Erstpräferenzen der Wähler ablesen lassen. Im Ersatzstimmensystem geben die Hauptstimmen die Erstpräferenzen der Wähler weitestgehend unverfälscht wider.
 
 > [!question]- Die Ersatzstimme stärkt einseitig größere Parteien
 > **Behauptung**: Da diese Ersatzstimme wahrscheinlich einer aussichtsreichen Partei gegeben wird, würden damit im Endeffekt die größeren Parteien gestärkt.
@@ -264,6 +286,16 @@ Eine [[Abstimmung21|Probeabstimmung]] auf Abstimmung21 ergab eine Unterstützung
 > **Behauptung**: Die Erschließung von Wählern von Kleinparteien in große Parteien könnte den kleinen Parteien schaden.
 > 
 > **Einordnung**: Diese Behauptung ist sehr hypothetisch. Das hängt stark von den Umständen, der involvierten Parteien, der Themen, der Erschließungsstrategie usw. ab. Es ist jedoch nicht ersichtlich, weshalb der behauptete Effekt großflächig kleinen Parteien schaden würde.
+
+> [!question]- Die Ersatzstimme überfordert Wahlvorstände und Wahlhelfer
+> **Behauptung**: Wegen der zusätzlichen Stimme und des aufwendigeren Auszählungsverfahrens kommt es zu Problemen.
+> 
+> **Einordnung**: Das bayerische und das hessische Kommunalwahlrecht sind beide erheblich komplizierter als das Ersatzstimmensystem - und dennoch funktionieren sie.
+
+> [!question]- Die Ersatzstimme ist trotzdem ungerecht
+> **Behauptung**: Wer mit Haupt- und Ersatzstimme kleine Parteien oder erfolglose Kandidaten wählt, bleibt am Ende trotz Ersatzstimme unberücksichtigt, hat also durch die Ersatzstimme nichts gewonnen.
+> 
+> **Einordnung**: Das System der Ersatzstimme ist insgesamt deutlich gerechter als das geltende Wahlrecht, da es in Summe zu deutlich mehr berücksichtigten Wählern führt. Nur im Worst Case verliert ein Wähler beide seine Stimmen. Und bei der Hauptstimme müssen sich die Wähler künftig nicht mehr verbiegen.
 
 > [!question]- Das jetzige Wahlsystem ist doch ausreichend
 > **Behauptung**: Deutschlands aktuelles Wahlsystem hat zwar seine Macken, aber dann ist das halt so! Es hat sich bewährt, never change a running system!

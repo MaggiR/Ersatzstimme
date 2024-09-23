@@ -1,10 +1,14 @@
-### Urteil des BVerfG (2017)
+---
+title: BVerfG-Urteil von 2017
+---
 [Zum Leitsatz](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/09/cs20170919_2bvc004614.html)
+
 Urteilte: "Die Einführung einer Eventualstimme \[Ersatzstimme\] für den Fall, dass die über die Hauptstimme mit Priorität gewählte Partei wegen der Fünf-Prozent-Sperrklausel nicht die erforderliche Mindeststimmenzahl erhält, ist verfassungsrechtlich nicht geboten." Eine eindeutige Entscheidung zur Zulässigkeit der Ersatzstimme wurde nicht getroffen.
 - Ersatzstimme kann den Eingriff der Sperrklausel in den Grundsatz der gleichen Wahl abmildern
 - Ersatzstimme erhöht Komplexität der Wahl. Dadurch Zunahme von Wahlenthaltungen und ungültigen Stimmen nicht ausgeschlossen.
 - Möglicherweise wird Grundsatz der Unmittelbarkeit der Wahl berührt
-Es sei Aufgabe des Gesetzgebers, die Vor- und Nachteile der Ersatzstimme gegeneinander abzuwägen und entsprechend über eine Einführung zu entscheiden.
+	- Diese Einschätzung wurde jedoch mit dem Urteil vom [[BVerfG 2024]] revidiert, wonach die Unmittelbarkeit nur dann verletzt wäre, wenn die Wahlentscheidung durch eine fremde Zwischeninstanz nach ihrem Ermessen getroffen würde oder wenn die Wahlentscheidung des Wählers nicht seinem Willen entsprechend beeinflusst würde. Beides ist hier nicht der Fall.
+**Es sei Aufgabe des Gesetzgebers, die Vor- und Nachteile der Ersatzstimme gegeneinander abzuwägen und entsprechend über eine Einführung zu entscheiden.**
 #### Einordnung durch Dr. Benken
 http://www.dualwahl.de/#bverfg
 Demnach ist das BVerfG einigen wichtigen Falschannahmen aufgesessen.
