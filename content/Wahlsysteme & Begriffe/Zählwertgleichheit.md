@@ -1,1 +1,1 @@
-Bei der Ermittlung des Wahlergebnisses zählt die Stimme jedes Wählers gleich viel.
+"**Zählwertgleichheit** herrscht, wenn jedem Wahlberechtigten bei der Wahlhandlung die gleiche Zahl an Stimmen zusteht." ([[PBD BB 2024|Parlamentarischer Beratungsdienst BB, 2024]]) Insbesondere wird beim Stimmgewicht zwischen verschiedenen Wählern nicht unterschieden - die Stimmen aller Wähler zählen gleich viel.

@@ -22,5 +22,7 @@ Zwar werden es durch dieses Verfahren mehr auszuzählende Stapel, jedoch bleibt 
 Zu erwarten ist, dass sich die Auszähldauer bis zur Verkündung des vorläufigen Endergebnisses nur geringfügig erhöhen wird, zumal die Verteilung der Sitze an die Parteien bereits nach der Auswertung der Listenstimmen feststeht, wohingegen die Auswertung der Wahlkreisstimmen nur die Sitze den Mandaten zuordnet.
 
 Da im obigen Auszählungsverfahren bereits sämtliche abgegebene Stimmen ausgezählt werden, kann die Aggregation der ausgewerteten Haupt- und Ersatzstimmen in die Sitzverteilung vollständig automatisiert erfolgen. Erneute Auszählungen aufgrund von Eliminierungen sind daher unnötig.
+## Legitimierung der Wahlreform
+Grundsätzlich ist es denkbar, eine Wahlreform als Referendum der Bevölkerung zur Wahl zu stellen. Dies beseitigt insbesondere das Problem der möglichen [[PBD BB 2024|Benachteiligungsabsicht]].
 ## Wissenschaftliche Begleitung
 Da das System der Ersatzstimme im deutschsprachigen Raum neu ist, bietet es sich an, seine Effekte genau zu untersuchen. Mit wissenschaftlichen Studien kann die Akzeptanz des neuen Systems geprüft werden, ebenso das Verständnis der Regeln sowie das Wahlverhalten.

@@ -1,0 +1,1 @@
+"**Erfolgschancengleichheit** herrscht, wenn jede Stimme bei der Überführung einer Stimmverteilung in eine Mandats- oder Ämtervergabe gleichbehandelt wird." ([[PBD BB 2024|Parlamentarischer Beratungsdienst BB, 2024]]) Für alle Wählerstimmen gelten also unterschiedslos dieselben Regeln.
